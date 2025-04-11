@@ -173,5 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# hydra
+# Hydra-Core
 outputs/
+
+# Poetry
+poetry.lock
