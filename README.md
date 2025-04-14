@@ -57,7 +57,7 @@ poetry install --with test
 
 ### Production
 ```bash
-poetry install --without dev,test
+poetry install --with prod
 ```
 
 > Adjust the entry point in the `pyproject.toml` file as needed for your application.
